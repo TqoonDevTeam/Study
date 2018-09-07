@@ -26,9 +26,10 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
+baseurl: "/Study"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
